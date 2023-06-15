@@ -1,0 +1,64 @@
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\bin\Debug\Database.mdf
+C:\Users\Tenk Gergely.DESKTOP-77I128M\source\repos\Server\Server\bin\Debug\Database_log.ldf
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Database.mdf
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Database_log.ldf
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.exe.config
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Database.mdf
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Database_log.ldf
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.exe.config
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Downloads\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Database.mdf
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Database_log.ldf
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.exe.config
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\bin\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Client_Server_Example\Client_Server_Example\Client_Server_Example\Server\Server\obj\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\bin\Debug\Database.mdf
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\bin\Debug\Database_log.ldf
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Server\Server\obj\Debug\Server.pdb
